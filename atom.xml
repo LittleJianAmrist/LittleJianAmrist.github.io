@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://littlejianamrist.github.io</id>
+    <title>AmristA の Blog</title>
+    <updated>2024-08-25T14:35:40.851Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://littlejianamrist.github.io"/>
+    <link rel="self" href="https://littlejianamrist.github.io/atom.xml"/>
+    <subtitle>𝑾𝒆𝒍𝒄𝒐𝒎𝒆 · 𝑨𝒎𝒓𝒊𝒔𝒕𝑨 &apos;𝒔 𝑩𝑳𝑶𝑮</subtitle>
+    <logo>https://littlejianamrist.github.io/images/avatar.png</logo>
+    <icon>https://littlejianamrist.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, AmristA の Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[MyDockFinder详细介绍]]></title>
+        <id>https://littlejianamrist.github.io/post/mydockfinder/</id>
+        <link href="https://littlejianamrist.github.io/post/mydockfinder/">
+        </link>
+        <updated>2022-12-24T09:29:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="1系统图标">1.系统图标</h3>
+<p>在分隔符上右键，选择添加系统图标，再选择就可以了。</p>
+<h3 id="2启动台">2.启动台</h3>
+<p>可以自定义里面的内容，快速开启软件文件夹是launchpad。</p>
+<h3 id="3访达">3.访达</h3>
+<p>访达其实就是此电脑。</p>
+<h3 id="4添加项目">4.添加项目</h3>
+<p>直接把快捷方式拖进去就好了。</p>
+<h3 id="5删除项目">5.删除项目</h3>
+<p>直接把快捷方式拖出去就好了。</p>
+<h3 id="6偏好设置">6.偏好设置</h3>
+<p>大家可以参考我的设置，没用MyFinder，只用了Mydock。</p>
+<h3 id="7废纸篓">7.废纸篓</h3>
+<p>其实就是回收站。</p>
+<hr>
+<h3 id="下载链接">下载链接：</h3>
+<p><a href="https://wwup.lanzoum.com/immpU0iyji5a">点击此处前往 蓝奏云 下载</a></p>
+<h3 id="bilibili视频链接推荐前往b站登录后观看~">Bilibili视频链接：(推荐前往B站登录后观看~！)</h3>
+<p><a href="https://www.bilibili.com/video/BV1M24y1S7XB">点击此处前往 哔哩哔哩 观看</a></p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=691660632&bvid=BV1M24y1S7XB&cid=935333075&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
+    </entry>
+</feed>
